@@ -14,7 +14,7 @@ body{
     flex-direction: column;
 }
 
-.card{
+.qr-card{
     border-radius:  16px;
     background-color: white;
     width: 320px;
@@ -23,21 +23,23 @@ body{
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 }
 
-.card img{
+.qr-card-img{
     width: 100%;
     border-radius: 10px;
     align-items: center;
 }
 
-h3{
+.qr-card-title{
     color: hsl(218, 44%, 22%);
     margin-top: 20px;
     font-size: 22px;
 }
 
-p{
+.qr-card-description{
+    padding-left: 15px;
+    padding-right: 15px;
     color: hsl(216, 15%, 48%);
     margin-top: 15px;
     padding-bottom: 20px;
-    font-size: 16px;
+    font-size: 15px;
 }
