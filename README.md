@@ -39,7 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learned how to center elements using Flexbox and how to create a responsive card component.
 I also learned the importance of:
-- Using semantic tags like `<main>` for accessibility (WCAG).
 - Using `max-width` instead of fixed width for responsiveness.
 - Correct file paths for images on GitHub Pages.
 
